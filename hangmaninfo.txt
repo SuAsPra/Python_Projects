@@ -1,0 +1,547 @@
+
+Python
+
+Hint 1: A popular programming language.
+Hint 2: Named after a type of snake.
+Hint 3: Often used for web development and data science.
+Transistor
+
+Hint 1: An essential component in electronics.
+Hint 2: Used to amplify or switch electronic signals.
+Hint 3: Found in almost all modern electronic devices.
+Algorithm
+
+Hint 1: A step-by-step procedure to solve a problem.
+Hint 2: Key to computer programming.
+Hint 3: Derived from the name of a Persian mathematician.
+Tesla
+
+Hint 1: An electric vehicle company.
+Hint 2: Named after a famous inventor.
+Hint 3: Known for its Autopilot technology.
+Multimeter
+
+Hint 1: A device to measure voltage, current, and resistance.
+Hint 2: Often used in electronics repair and testing.
+Hint 3: Can be digital or analog.
+Oscillator
+
+Hint 1: Produces repetitive signals like sine waves.
+Hint 2: Used in clocks, radios, and sound synthesizers.
+Hint 3: Converts DC input to an AC output.
+Bluetooth
+
+Hint 1: A wireless technology for short-range communication.
+Hint 2: Named after a Viking king who united Denmark and Norway.
+Hint 3: Commonly used in headphones and speakers.
+Diode
+
+Hint 1: Allows current to flow in one direction only.
+Hint 2: Found in rectifiers and LED lights.
+Hint 3: Made from semiconductors like silicon or germanium.
+Arduino
+
+Hint 1: A microcontroller platform popular for DIY projects.
+Hint 2: Open-source and beginner-friendly.
+Hint 3: Used with sensors, motors, and other components.
+Matrix
+
+Hint 1: A rectangular array of numbers or elements.
+Hint 2: A key concept in linear algebra.
+Hint 3: Featured in a sci-fi movie series about virtual reality.
+
+Quantum
+
+Hint 1: A branch of physics dealing with very small particles.
+Hint 2: Associated with uncertainty and probabilities.
+Hint 3: Related to photons and subatomic particles.
+Capacitor
+
+Hint 1: An electronic component that stores energy temporarily.
+Hint 2: Measured in units called Farads.
+Hint 3: Often used in circuits to smooth voltage.
+Binary
+
+Hint 1: A numeral system with only two digits: 0 and 1.
+Hint 2: The foundation of computer processing.
+Hint 3: Often associated with on/off states.
+Resistor
+
+Hint 1: Limits the flow of electrical current.
+Hint 2: Measured in ohms.
+Hint 3: Has color-coded bands for resistance values.
+Photon
+
+Hint 1: A particle of light or electromagnetic radiation.
+Hint 2: Carries energy proportional to its frequency.
+Hint 3: Travels at the speed of light.
+Encoder
+
+Hint 1: Converts data or signals into a coded form.
+Hint 2: Used in robotics for position feedback.
+Hint 3: Common in motor control systems.
+Antenna
+
+Hint 1: Used to send or receive radio waves.
+Hint 2: Found in devices like TVs and cell phones.
+Hint 3: Often metallic and comes in various shapes.
+Ohm
+
+Hint 1: The unit of electrical resistance.
+Hint 2: Named after a German physicist.
+Hint 3: Part of Ohm's Law: V = IR.
+Satellite
+
+Hint 1: Orbits planets or celestial bodies.
+Hint 2: Used for communication and GPS.
+Hint 3: Some are natural, like moons.
+Neutron
+
+Hint 1: A neutral subatomic particle.
+Hint 2: Found in the nucleus of an atom.
+Hint 3: Heavier than a proton but carries no charge.
+Laptop
+
+Hint 1: A portable computer.
+Hint 2: Often used for work, gaming, or studying.
+Hint 3: Has a keyboard and a built-in screen.
+Battery
+
+Hint 1: A source of stored electrical energy.
+Hint 2: Commonly used in phones and remote controls.
+Hint 3: Can be rechargeable or disposable.
+Internet
+
+Hint 1: A global network connecting devices.
+Hint 2: Used for browsing, social media, and streaming.
+Hint 3: Requires a connection like Wi-Fi or mobile data.
+Mobile
+
+Hint 1: A handheld communication device.
+Hint 2: Used for calls, texting, and apps.
+Hint 3: Often called a smartphone.
+Google
+
+Hint 1: A popular search engine.
+Hint 2: Also known for Gmail and Android.
+Hint 3: The name can be used as a verb for "search online."
+Clock
+
+Hint 1: A device for measuring time.
+Hint 2: Found on walls, wrists, and phones.
+Hint 3: Displays hours, minutes, and sometimes seconds.
+Cable
+
+Hint 1: Used to connect devices or transmit electricity.
+Hint 2: Can be USB, HDMI, or power cables.
+Hint 3: Often made of copper wires inside plastic insulation.
+Password
+
+Hint 1: A secret code for accessing accounts or devices.
+Hint 2: Should be kept secure and private.
+Hint 3: Often a mix of letters, numbers, and symbols.
+Robot
+
+Hint 1: A machine capable of performing tasks.
+Hint 2: Can be autonomous or controlled by humans.
+Hint 3: Popular in factories, homes, and sci-fi movies.
+Screen
+
+Hint 1: A display for showing visuals.
+Hint 2: Found on TVs, monitors, and phones.
+Hint 3: Can be touch-sensitive on many modern devices.
+Paradox
+
+Hint 1: A statement that seems contradictory but may be true.
+Hint 2: Often found in philosophical discussions.
+Hint 3: Example: "Less is more."
+Labyrinth
+
+Hint 1: A complicated maze or network of paths.
+Hint 2: Often used as a metaphor for a complex problem.
+Hint 3: Associated with Greek mythology.
+Obsidian
+
+Hint 1: A type of volcanic glass.
+Hint 2: Often black and shiny.
+Hint 3: Used historically to make sharp tools.
+Quasar
+
+Hint 1: A distant, bright celestial object.
+Hint 2: Powered by a supermassive black hole.
+Hint 3: Found in the early universe.
+Zephyr
+
+Hint 1: A soft, gentle breeze.
+Hint 2: Often associated with springtime.
+Hint 3: Mentioned in poetry and mythology.
+Ethereal
+
+Hint 1: Extremely delicate or light, almost otherworldly.
+Hint 2: Associated with beauty and the heavens.
+Hint 3: Often used to describe dreams or spirits.
+Monolith
+
+Hint 1: A large, singular block of stone.
+Hint 2: Sometimes associated with ancient monuments.
+Hint 3: Featured prominently in sci-fi works.
+Luminous
+
+Hint 1: Emitting or reflecting light.
+Hint 2: Often used to describe glowing objects.
+Hint 3: Can refer to something figuratively bright, like an idea.
+Pendulum
+
+Hint 1: A weight swinging back and forth.
+Hint 2: Found in clocks and scientific experiments.
+Hint 3: Often used as a metaphor for changing opinions.
+Silhouette
+
+Hint 1: A dark outline or shape of someone or something.
+Hint 2: Often seen at sunset or against a bright background.
+Hint 3: Used in art and photography.
+Chair
+
+Hint 1: A piece of furniture for sitting.
+Hint 2: Often found around a table.
+Hint 3: Can have four legs and a backrest.
+Light
+
+Hint 1: Helps us see in the dark.
+Hint 2: Can come from the sun, bulbs, or candles.
+Hint 3: Opposite of dark.
+Apple
+
+Hint 1: A common fruit that can be red, green, or yellow.
+Hint 2: Keeps the doctor away (according to a saying).
+Hint 3: Often used to make pies or juices.
+Bread
+
+Hint 1: A staple food made from flour and baked.
+Hint 2: Often used to make sandwiches.
+Hint 3: Can be white, brown, or whole grain.
+Plant
+
+Hint 1: A living thing that grows in soil.
+Hint 2: Needs sunlight and water to survive.
+Hint 3: Can be a flower, tree, or vegetable.
+House
+
+Hint 1: A building where people live.
+Hint 2: Can have rooms like a kitchen and bedroom.
+Hint 3: Provides shelter and protection.
+Abyss
+
+Hint 1: A deep, seemingly bottomless chasm.
+Hint 2: Often used metaphorically for great depths or despair.
+Hint 3: Found in literature and philosophy.
+Eclipse
+
+Hint 1: The obscuring of one celestial body by another.
+Hint 2: Can be solar or lunar.
+Hint 3: Happens when the sun, moon, and Earth align.
+Bastion
+
+Hint 1: A stronghold or fortification.
+Hint 2: Often used metaphorically to mean a place of strength.
+Hint 3: Associated with medieval castles.
+Chimera
+
+Hint 1: A mythical creature with parts from different animals.
+Hint 2: Used metaphorically to describe an impossible dream.
+Hint 3: Mentioned in Greek mythology.
+Ephemeral
+
+Hint 1: Lasting for a very short time.
+Hint 2: Often used to describe fleeting beauty or moments.
+Hint 3: Related to the idea of impermanence.
+Obfuscate
+
+Hint 1: To make something unclear or difficult to understand.
+Hint 2: Often used in contexts like language or explanations.
+Hint 3: Opposite of clarify.
+Serendipity
+
+Hint 1: The occurrence of happy or beneficial events by chance.
+Hint 2: Often associated with luck or good fortune.
+Hint 3: Used in stories about unexpected discoveries.
+Sanctuary
+
+Hint 1: A place of safety or refuge.
+Hint 2: Often associated with religious buildings.
+Hint 3: Can be a safe haven for people or animals.
+Turbulence
+
+Hint 1: Violent or unsteady movement, often in air or water.
+Hint 2: Frequently experienced during flights.
+Hint 3: Used metaphorically for chaotic situations.
+Facade
+
+Hint 1: The front or face of a building.
+Hint 2: Used metaphorically for a false outward appearance.
+Hint 3: Common in architecture and psychology.
+Cloud
+
+Hint 1: Found in the sky.
+Hint 2: Made of water droplets or ice crystals.
+Hint 3: Brings rain or shade.
+Stone
+
+Hint 1: A small rock.
+Hint 2: Found in nature or used in construction.
+Hint 3: Can be polished into a gem.
+Beach
+
+Hint 1: Found by the ocean or a lake.
+Hint 2: Covered with sand or pebbles.
+Hint 3: A popular vacation spot.
+Sugar
+
+Hint 1: A sweet substance.
+Hint 2: Often added to tea, coffee, or desserts.
+Hint 3: Made from sugarcane or beets.
+Asteroid
+
+Hint 1: A rocky object in space.
+Hint 2: Orbits the sun, mostly in a belt between Mars and Jupiter.
+Hint 3: Can cause craters if they hit a planet.
+Echo
+
+Hint 1: A sound reflection.
+Hint 2: Often heard in mountains or caves.
+Hint 3: Can be delayed or repeated.
+Fossil
+
+Hint 1: Preserved remains of ancient organisms.
+Hint 2: Found in rocks or sediment.
+Hint 3: Key to studying prehistoric life.
+Harbor
+
+Hint 1: A sheltered place for ships.
+Hint 2: Found along coasts.
+Hint 3: Offers protection from storms.
+Jigsaw
+
+Hint 1: A puzzle with many interlocking pieces.
+Hint 2: Often forms a picture when completed.
+Hint 3: Popular as a leisure activity.
+Lantern
+
+Hint 1: A portable light source.
+Hint 2: Often used outdoors or in emergencies.
+Hint 3: Can be powered by oil, batteries, or electricity.
+Quiver
+
+Hint 1: A container for holding arrows.
+Hint 2: Often used by archers.
+Hint 3: Can also mean a slight trembling.
+Tundra
+
+Hint 1: A cold, treeless biome.
+Hint 2: Found in Arctic regions.
+Hint 3: Has permafrost underneath.
+Furnace
+
+Hint 1: A device for heating buildings.
+Hint 2: Often found in basements.
+Hint 3: Can burn gas, oil, or electricity.
+Whisker
+
+Hint 1: A long, thin hair on animals like cats.
+Hint 2: Helps animals sense their surroundings.
+Hint 3: Found on the face near the nose.
+Benevolent
+
+Hint 1: Showing kindness or goodwill.
+Hint 2: Opposite of malevolent.
+Hint 3: Often used to describe a generous person.
+Capricious
+
+Hint 1: Subject to sudden changes in mood or behavior.
+Hint 2: Describes unpredictable or whimsical actions.
+Hint 3: Often used to describe weather or people’s moods.
+Cursory
+
+Hint 1: Done quickly and without attention to detail.
+Hint 2: Often used to describe a superficial glance or review.
+Hint 3: Opposite of thorough.
+Diligent
+
+Hint 1: Showing careful and persistent effort.
+Hint 2: Often used to describe a hardworking person.
+Hint 3: Opposite of lazy.
+Eloquent
+
+Hint 1: Fluent or persuasive in speaking or writing.
+Hint 2: Often used to describe a powerful speech.
+Hint 3: Similar to articulate or expressive.
+Fluctuate
+
+Hint 1: To change or vary, often in an irregular way.
+Hint 2: Commonly used for prices, temperatures, or conditions.
+Hint 3: Opposite of stabilize.
+Inevitable
+
+Hint 1: Certain to happen; unavoidable.
+Hint 2: Often used to describe events that are sure to occur.
+Hint 3: Opposite of avoidable.
+Meticulous
+
+Hint 1: Showing great attention to detail.
+Hint 2: Often used to describe someone who is careful and precise.
+Hint 3: Opposite of careless.
+Pragmatic
+
+Hint 1: Dealing with things sensibly and realistically.
+Hint 2: Focused on practical results rather than theories.
+Hint 3: Often used to describe a practical person.
+Vivid
+
+Hint 1: Producing powerful feelings or clear images in the mind.
+Hint 2: Often used to describe bright colors or detailed memories.
+Hint 3: Opposite of dull or faint.
+Adversity
+
+Hint 1: Difficult or unfavorable conditions.
+Hint 2: Often used to describe hardships or challenges.
+Hint 3: Opposite of prosperity.
+Candid
+
+Hint 1: Honest and straightforward in speech.
+Hint 2: Often used to describe a truthful conversation.
+Hint 3: Opposite of secretive or dishonest.
+Cohesive
+
+Hint 1: Forming a united whole.
+Hint 2: Used to describe well-organized or well-structured things.
+Hint 3: Opposite of disjointed or fragmented.
+Concur
+
+Hint 1: To agree or have the same opinion.
+Hint 2: Often used in discussions or debates.
+Hint 3: Opposite of disagree.
+Emerge
+
+Hint 1: To come into view or existence.
+Hint 2: Often used to describe something coming out of hiding.
+Hint 3: Opposite of disappear or fade.
+Indifferent
+
+Hint 1: Having no particular interest or concern.
+Hint 2: Describes a neutral or apathetic attitude.
+Hint 3: Opposite of passionate or concerned.
+Keen
+
+Hint 1: Having a sharp interest or desire.
+Hint 2: Often used to describe someone eager or enthusiastic.
+Hint 3: Opposite of dull or indifferent.
+Ominous
+
+Hint 1: Suggesting that something bad is going to happen.
+Hint 2: Often used to describe dark clouds or threatening signs.
+Hint 3: Opposite of reassuring or positive.
+Rejuvenate
+
+Hint 1: To make someone or something feel or look younger or fresher.
+Hint 2: Often used to describe restoring energy or appearance.
+Hint 3: Opposite of deteriorate.
+Serene
+
+Hint 1: Calm, peaceful, and untroubled.
+Hint 2: Often used to describe a tranquil environment or mood.
+Hint 3: Opposite of chaotic or turbulent.
+Animal
+
+Hint 1: A living organism that is not a plant or a human.
+Hint 2: Examples include dogs, cats, and lions.
+Hint 3: Can be a pet or wild.
+Bicycle
+
+Hint 1: A vehicle with two wheels.
+Hint 2: You pedal it to move.
+Hint 3: Often used for exercise or commuting.
+Chair
+
+Hint 1: A piece of furniture for sitting.
+Hint 2: Has four legs and a backrest.
+Hint 3: Found in offices and homes.
+Cloud
+
+Hint 1: A visible mass of water vapor in the sky.
+Hint 2: Can bring rain or snow.
+Hint 3: Fluffy and white in appearance.
+Dance
+
+Hint 1: A rhythmic movement of the body to music.
+Hint 2: Often done at parties or events.
+Hint 3: Can be a form of expression or exercise.
+Fish
+
+Hint 1: A creature that lives in water.
+Hint 2: Often kept in aquariums or caught for food.
+Hint 3: Breathes through gills.
+Glass
+
+Hint 1: A transparent material used for windows or cups.
+Hint 2: Often made from sand and heated.
+Hint 3: Can break easily if dropped.
+Lamp
+
+Hint 1: A source of light.
+Hint 2: Can be powered by electricity or oil.
+Hint 3: Often found on tables or desks.
+Mountain
+
+Hint 1: A large natural elevation of the earth's surface.
+Hint 2: Higher than a hill.
+Hint 3: Found in ranges like the Himalayas or Rockies.
+Pencil
+
+Hint 1: A tool used for writing or drawing.
+Hint 2: Has a wooden or plastic exterior.
+Hint 3: Contains lead that can be erased.
+Shirt
+
+Hint 1: A piece of clothing worn on the upper body.
+Hint 2: Has sleeves and a collar.
+Hint 3: Can be made from cotton or other fabrics.
+Smile
+
+Hint 1: A facial expression showing happiness or friendliness.
+Hint 2: Often involves showing teeth.
+Hint 3: A way to express kindness or joy.
+Window
+
+Hint 1: A clear opening in a wall or door.
+Hint 2: Allows light to enter and offers a view.
+Hint 3: Can be opened or closed with glass.
+Zoo
+
+Hint 1: A place where animals are kept and displayed.
+Hint 2: Often has different species from around the world.
+Hint 3: People visit to learn about animals.
+Book
+
+Hint 1: A collection of pages with written or printed material.
+Hint 2: Can be fiction or nonfiction.
+Hint 3: Often read for entertainment or learning.
+Ball
+
+Hint 1: A round object used in sports and games.
+Hint 2: Can be made of rubber, leather, or other materials.
+Hint 3: Examples include a soccer ball or basketball.
+Cup
+
+Hint 1: A small container used for drinking.
+Hint 2: Has a handle.
+Hint 3: Commonly used for tea, coffee, or water.
+Heart
+
+Hint 1: An organ that pumps blood in the body.
+Hint 2: A symbol of love and affection.
+Hint 3: Found in the chest, slightly to the left.
+
+
+
+
+
